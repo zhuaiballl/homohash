@@ -1,4 +1,4 @@
-module homohash
+module github.com/zhuaiballl/homohash
 
 go 1.18
 
