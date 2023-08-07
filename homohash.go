@@ -244,6 +244,8 @@ func (h *homo) Reset() {
 	h.h[5] = init5
 	h.h[6] = init6
 	h.h[7] = init7
+	h.len = 0
+	h.nx = 0
 }
 
 func New() hash.Hash {
